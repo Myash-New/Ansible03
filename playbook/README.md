@@ -3,7 +3,7 @@
 ![ansible-playbook -i inventory/prod.yml site.yml --check](https://github.com/Myash-New/Ansible03/blob/main/check%2002.jpg)
 # 7 Запустите playbook на `prod.yml` окружении с флагом `--diff`
 ![ansible-playbook -i inventory/prod.yml site.yml --diff](https://github.com/Myash-New/Ansible03/blob/main/diff%2001%20-1.jpg)
-![ansible-playbook -i inventory/prod.yml site.yml --diff](https://github.com/Myash-New/Ansible03/blob/main/diff%2001%20-2jpg.jpg)
+![ansible-playbook -i inventory/prod.yml site.yml --diff](https://github.com/Myash-New/Ansible03/blob/main/diff%2001%20-2.jpg)
 # 8 Повторно запустите playbook с флагом `--diff` и убедитесь, что playbook идемпотентен.
 ![ansible-playbook -i inventory/prod.yml site.yml --diff](https://github.com/Myash-New/ter-homework-my/blob/main/terr_03_security_groups.jpg)
 ![ansible-playbook -i inventory/prod.yml site.yml --diff](https://github.com/Myash-New/ter-homework-my/blob/main/terr_03_security_groups.jpg)

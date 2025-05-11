@@ -1,3 +1,5 @@
+# ANSIBLE_03
+
 # 6 Попробуйте запустить playbook на этом окружении с флагом `--check`
 ![ansible-playbook -i inventory/prod.yml site.yml --check](https://github.com/Myash-New/Ansible03/blob/main/check%2001.jpg)
 ![ansible-playbook -i inventory/prod.yml site.yml --check](https://github.com/Myash-New/Ansible03/blob/main/check%2002.jpg)

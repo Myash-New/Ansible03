@@ -70,7 +70,7 @@
         name: nginx
         state: started
         enabled: yes
-
+        
     - name: Lighthouse | Clone from git on remote server
       command: git clone https://github.com/VKCOM/lighthouse.git  /usr/share/nginx/html/lighthouse
       args:
